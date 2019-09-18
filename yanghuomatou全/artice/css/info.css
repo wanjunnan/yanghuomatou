@@ -1,0 +1,65 @@
+/*主要存放文章列表部分*/
+.local{
+	height: 52px;
+}
+.local .local-box{
+	width: 170px;
+	height: 52px;
+	line-height: 52px;
+}
+.local .local-img{
+	padding-top: 15px;
+}
+.content-box{
+	height: 1246px;
+}
+.content-box .content-left{
+	width: 960px;
+	border: 1px solid #CCCCCC;
+	height: 1223px;
+}
+.content-box .title-img{
+	width: 640px;
+	height: 398px;
+}
+.content-box .content-right{
+	width: 220px;
+	border: 1px solid #CCCCCC;
+	height: 200px;
+}
+.content-box .content-right .right-top{
+	line-height: 40px;
+	width: 218px;
+	border-bottom: 1px solid #CCCCCC;
+	height: 40px;
+	background: #fff9f5;
+}
+.content-box .content-right .right-botton{
+	text-align: center;
+	height: 160px;
+	widows: 218px;
+	/*padding: 10px;*/
+}
+.content-box .content-right .right-botton {
+	padding:10px;
+}
+/*调整页面*/
+.content-box .content-left .title{
+	margin-top: 40px;
+	text-align: center;
+}
+.content-box .content-left .time{
+	margin-top: 30px;
+	text-align: center;
+}
+.content-box .content-left .title-img{
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.content-box .content-left .video{
+	text-align: center;
+	margin-top: 20px;
+}
+.content-box .content-left .li-word ,.li-word1 ,.li-word2 ,.li-word3{
+	padding: 20px 20px;
+}

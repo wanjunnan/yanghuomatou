@@ -1,0 +1,140 @@
+/*登录注册页面css部分*/
+.logo{
+	height:130px;
+
+}
+.logo .login-img{
+	margin-top:30px;
+}
+.bgc{
+	height: 475px;
+	background: url(../img/bgc.png) no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+.bgc .bgc-box{
+	position: absolute;
+	background: white;
+	width: 346px;
+	height: 360px;
+	right: 248px;
+	top: 55px;
+}
+.bgc .bgc-box .bgc-box1{
+	height: 30px;
+	line-height: 30px;
+	padding: 10px 50px 20px;
+}
+.bgc .bgc-box .bgc-box1 .bgc-box2{
+	border-radius: 50%;
+	width: 16px;
+	height: 16px;
+	left: 53px;
+	top: -24px;
+	background: #FF2D52;
+	line-height: 20px;
+	position: relative;
+}
+.bgc .bgc-box .bgc-box1 .bgc-box2 img{
+	position: absolute;
+	text-align: center;
+	top: 3px;
+	left: 6px;
+}
+.bgc .bgc-box .bgc-box3 .bgc-input{
+	width: 305px;
+	height: 24px;
+	background: #fff9f5;
+	border: 1px solid #FF2D52;
+	margin: 0 20px;
+	position: relative;
+}
+.bgc .bgc-box .bgc-box3 .bgc-img{
+	position: absolute;
+	left: 28px;
+	top: 60px;	
+}
+.bgc .bgc-box4 .bgc-box4-input{
+	width: 305px;
+	height: 40px;
+	border: 1px solid #E2E2E2;
+	margin: 10px 20px;
+	position: relative;
+	padding-left: 50px;
+}
+.bgc .bgc-box4 .bgc-box4-img{
+	width: 30px;
+	line-height: 25px;
+	height: 25px;
+	position: absolute;
+	left: 28px;
+	top: 27%;
+	border-right: 1px solid #CCCCCC;
+}
+.bgc .bgc-box5 .bgc-box5-input{
+	width: 305px;
+	height: 40px;
+	border: 1px solid #E2E2E2;
+	margin: 5px 20px;
+	position: relative;
+	padding-left: 50px;
+}
+.bgc .bgc-box5 .bgc-box5-img{
+	width: 30px;
+	line-height: 25px;
+	height: 25px;
+	position: absolute;
+	left: 28px;
+	top: 43%;
+	border-right: 1px solid #CCCCCC;
+}
+.bgc .bgc-box6{
+	height: 30px;
+	line-height: 30px;
+	padding: 10px 20px;
+}
+.bgc .bgc-box7{
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	margin:20px;
+	background: #FF2D52;
+}
+.bgc .bgc-box8{
+	height: 35px;
+	line-height: 35px;
+	margin:20px;
+}
+.bgc .bgc-box8 a{
+	padding-top: 10px;	
+}
+.bgc .bgc-box8 img{
+	padding-left: 10px;
+}
+/*登录正则法*/      
+			.alter{
+				display: inline-block;
+				border: 1px solid #CCCCCC;
+				background: #F2F2F2;
+				padding: 5px 10px;
+				font-size: 12px;
+				border-radius: 5px;
+				position: absolute;
+				top: 38%;	
+				left: 55%;			
+			}
+			.alter-info{
+				border-color: greenyellow;
+				background: #7FFFD4;
+				color: black;
+			}
+			.alter-error{
+				color: darkgoldenrod;
+				border-color:goldenrod ;
+				background: gold;
+			}
+			.alter-warning{
+				color: darkmagenta;
+				border-color:darkred ;
+				background: red;
+			}

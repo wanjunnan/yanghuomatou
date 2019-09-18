@@ -1,0 +1,227 @@
+.payfor{
+	height: 1152px;
+    /*border: 1px solid #ccc;*/
+}
+.payfor .pay-top{
+	height: 55px;
+	width: 1200px;
+	line-height: 55px;
+	border-bottom: 1px solid #ccc;
+}
+.payfor .pay-top-two{
+	height: 55px;
+	width: 1200px;
+	line-height: 55px;
+}
+.payfor .pay-top-two li{
+	float: left;
+}
+.payfor .pay-top-two .pay-div{
+	width: 259px;
+	height: 155px;
+	position: absolute;
+	margin: -177px 20px 20px 0;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+.payfor .pay-top-two .pay-div p{
+	height: 25px;
+}
+.payfor .pay-top-two .pay-div .movimg img{
+	position: absolute;
+	left: 43%;
+	top: 34%;
+}
+.payfor .pay-top-two .pay-div .movimg p{
+	position: absolute;
+	left: 34%;
+	top: 45%;
+}
+.payfor .pay-top-two .pay-top-two-reset img:hover{
+	border-color: #FF2D52;
+}
+.payfor .pay-top-two-reset span a:hover{
+	color: #FF2D52;
+}
+.pay-top-two-reset .heit{
+	position: absolute;
+	margin: -177px 20px;
+	width: 228px;
+}
+.pay-top-two-reset .moving{
+	position: absolute;
+	padding: 10px;
+}
+.pay-top-two-reset .moving p{
+	padding: 5px 10px;
+}
+.message{
+	margin-top: 14%;
+	width: 429px;
+	height: 100px;
+}
+.message.know{
+	margin-top:10px;
+}
+.message li{
+	margin-top: 20px;
+	float: left;	
+	width:120px;
+	text-align: center;
+	line-height: 40px;
+	height: 40px;
+	border: 1px solid #ccc;
+}
+.message li:hover{
+	border-color: #FF2D52;
+}
+.message li a:hover{
+	color: #FF2D52;
+}
+.pay-lists{
+	height: 640px;
+}
+.pay-lists .pay-list{
+	width: 100px;
+	line-height: 40px;
+	height: 40px;
+}
+.pay-lists .pay-menu{
+	width: 1200px;
+	height: 596px;
+	border:1px solid #ccc ;
+}
+.pay-lists .pay-menu .pay-menu-one{
+	margin: 10px 20px;
+	width: 1160px;
+	height: 40px;
+	line-height: 40px;
+	background: #FFF9F5;
+}
+.pay-lists .pay-menu .pay-menu-one .pad{
+	padding-left: 111px;
+}
+.pay-lists .pay-menu .pay-menu-one .pad1{
+	padding-left: 385px;
+}
+.pay-lists .pay-menu .pay-menu-one .pad2 ,.pad3{
+	padding-left: 158px;
+}
+.pay-lists .pay-menu .pay-menu-one li{
+	float: left;
+	font-size: 12px;
+}
+.pay-lists .pay-menu .pay-menu-two{
+	width: 1160px;
+	height: 123px;
+	margin: 10px 20px 2px 20px;
+	background: #FFF9F5;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold{
+	margin-top: -7%;
+	margin-left: 8%;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold1{
+	margin-top: -4%;
+	margin-left: 35%;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold2{
+	margin-top: -3%;
+	margin-left: 58%;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold3{
+	margin-top: -2%;
+	width: 20px;
+	margin-left: 75%;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold4{
+	margin-top: -1%;
+	margin-left:89%;
+	font-size: 14px;
+}
+.pay-lists .pay-menu .pay-menu-three .paywold{
+	margin-top: -7%;
+	margin-left: 8%;
+}
+.pay-lists .pay-menu .pay-menu-three .paywold1{
+	margin-top: -4%;
+	margin-left: 35%;
+}
+.pay-lists .pay-menu .pay-menu-three .paywold2{
+	margin-top: -3%;
+	margin-left: 58%;
+}
+.pay-lists .pay-menu .pay-menu-three .paywold3{
+	margin-top: -2%;
+	width: 20px;
+	margin-left: 75%;
+}
+.pay-lists .pay-menu .pay-menu-three .paywold4{
+	margin-top: -1%;
+	margin-left:89%;
+	font-size: 14px;
+}
+.pay-lists .pay-menu .pay-menu-two .paywold2 .shop{
+	width: 45px;
+	height: 17px;
+	line-height: 17;
+	color: #FF2D52
+	border-color:#FF2D52 ;
+	border: 1px solid #FF2D52;
+}
+/*.pay-lists .pay-menu .pay-menu-two .paywold2 .shop p{
+	padding-top: 10px;
+	/*height: 20px;*/
+/*}*/
+.pay-lists .pay-menu .pay-menu-two img{
+	width: 78px;
+	height: 82px;
+	margin: 20px;
+}
+.pay-lists .pay-menu .pay-menu-three{
+	width: 1160px;
+	height: 123px;
+	margin: 2px 20px 10px 20px;
+	background: #FFF9F5;
+}
+.pay-lists .pay-menu .pay-menu-three img{
+	width: 78px;
+	height: 82px;
+	margin: 20px;
+}
+.pay-lists .pay-menu .pay-menu-four{
+	height: 182px;
+	width: 1160px;
+	margin: 10px 20px 2px 20px;
+	border-bottom: 1px solid #ccc;
+}
+.pay-lists .pay-menu .pay-menu-four .select-dox{
+	width: 299px;
+	height: 30px;
+}
+.pay-lists .pay-menu .pay-menu-four .paying{
+	/*padding-right: 20px;*/
+}
+.pay-lists .pay-menu .pay-menu-four .paying li{
+	padding-top: 12px;
+}
+.pay-lists .pay-menu .pay-menu-five{
+	height: 54px;
+	width: 1160px;
+}
+.pay-lists .pay-menu .pay-menu-five .pay-menu-five-up{
+	margin: 20px;
+}
+.pay-lists .pay-menu .pay-menu-five .pay-menu-five-down{
+	margin: 20px;
+}
+.pay-lists .pay-menu .pay-menu-five .pay-menu-five-down button{
+	height: 50px;
+	width: 160px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	color: white;
+}
+.pay-lists .pay-menu .pay-menu-five .pay-menu-five-down button:hover{
+	background: #FF2D52;
+}

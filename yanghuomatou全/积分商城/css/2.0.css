@@ -1,0 +1,227 @@
+/*存放积分商城css部分*/
+.min-box{
+	width: 272px;
+	height: 324px;
+	border: 1px solid #E2E2E2;
+	background: white;
+	margin-left: 90px;
+	/*z-index: 20;*/
+	/*display: none;*/
+}
+.min-box .min-box-up img{
+	padding-top: 30px;
+	padding-left: 10px;
+}
+.min-box .min-box-up .span{
+	padding-top: 54px;
+	padding-right: 30px;
+}
+.min-box .min-box-up .span1{
+	margin-top: -15%;
+	margin-right: 35%;
+}
+.min-box .min-box-up .span2{
+	margin-top: -17%;
+	margin-right: 27%;
+}
+.min-box .min-box-up .span3{
+	margin-top: 2%;
+	margin-left: 46%;
+	width: 120px;
+	height: 14px;
+	position: relative;
+	border: 1px solid #E2E2E2;
+}
+.min-box .min-box-up .span3 .span4{
+	background: #FF2D52;
+	width: 50px;
+	height: 12px;
+	position: absolute;
+}
+.min-box .min-box-up .span5{
+	margin-top: -7%;
+	margin-left: 9%;
+}
+.min-box .min-box-up .span6{
+	margin-top: 3%;
+	margin-right:31%;
+	background: #FF2D52;
+	width: 62px;
+	height: 23px;
+	color: white;
+	line-height: 23px;
+	text-align: center;
+	border-radius: 5px;
+}
+.min-box .min-box-down{
+	width: 223px;
+	height: 130px;
+	margin-top: 50px;
+	margin-left:25px ;
+	border-top: 1px solid #E2E2E2;
+}
+.min-box .min-box-down .down1{
+	margin-top: -38px;
+	padding-left: 42px;
+}
+.min-box .min-box-down .down2{
+	margin-top: 3px;
+	padding-left: 33px;
+}
+/*内容部分*/
+.discount{
+	height: 263px;
+}
+.discount .discount-box1{
+	height: 48px;
+	line-height: 48px;
+	border-bottom: 1px solid #E2E2E2;
+}
+.discount .discount-box1 .discount-box1-word{
+	width: 100px;
+	height: 48px;
+	border-bottom: 2px solid #FF2D52;
+}
+/*.discount .discount-box1 .discount-box1-word{
+	width: 143px;
+	height: 42px;
+	border-bottom: 1px solid #FF2D52;
+}*/
+.discount .discount-box2{
+	/*width: 1200px;*/
+	height: 220px;
+	border: 1px solid #E2E2E2;
+}
+.discount .discount-box2 img{
+	position: relative;
+}
+.discount .discount-box2 .discount-box2-one{
+	position: absolute;
+	margin-top: -132px;
+	margin-left: 20px;
+}
+.discount .discount-box2 .discount-box2-two{
+	position: absolute;
+	margin-top: -157px;
+	margin-left: 100px;
+}
+.discount .discount-box2 .discount-box2-three{
+	margin-top: 30px;
+	position: absolute;
+	width: 246px;
+	height: 72px;
+	margin-left: -83px;
+	border-top: 1px dashed #E2E2E2;
+}
+.discount .discount-box2 .discount-box2-three .discount-box2-four{
+	color: white;
+	background: #FF2D52;
+	border-radius: 15px;
+	width: 138px;
+	height: 38px;
+	text-align: center;
+	line-height: 38px;
+	position: absolute;
+	margin-left:42px;
+}
+.move{
+	margin-left: 14px;
+	margin-top: -15%;
+}
+/*限时购买部分*/
+.limit-time{
+	margin-top: 50px;
+	height: 430px;
+	border: 1px solid #E2E2E2;
+}
+.limit-time .limit-time-box1{
+	/*margin-top: 30px;*/
+	height: 48px;
+	line-height: 48px;
+		margin-left: 10px;
+	/*border: 1px solid #E2E2E2;*/
+}
+.limit-time .limit-time-box1 .limit-time-box1-word{
+	width: 80px;
+	height: 48px;
+	border-bottom: 2px solid #FF2D52;
+}
+.limit-time .limit-time-box2{
+	height: 372px;
+	margin:  0 13px;
+   /*border: 1px solid #E2E2E2;*/
+}
+.limit-time .limit-time-box2 .small-box{
+	width: 214px;
+	height: 328px;
+	border: 1px solid #E2E2E2;
+	margin: 20px 10px;
+}
+.limit-time .limit-time-box2 .small-box img{
+	width: 212px;
+	height: 213px;
+}
+.limit-time .limit-time-box2 .small-box1{
+	margin: 10px;
+	width: 150px;
+	height: 36px;
+	background: #FF2D52;
+	text-align: center;
+	line-height: 36px;
+	color: white;
+	border-radius: 5px;
+}
+
+.limit-time1{
+	margin-top: 50px;
+	height: 792px;
+	border: 1px solid #E2E2E2;
+}
+.limit-time1 .limit-time-box1{
+	/*margin-top: 30px;*/
+	height: 48px;
+	line-height: 48px;
+	margin-left: 10px;
+	/*border: 1px solid #E2E2E2;*/
+}
+.limit-time1 .limit-time-box1 .limit-time-box1-word{
+	width: 80px;
+	height: 48px;
+	border-bottom: 2px solid #FF2D52;
+}
+.limit-time1 .limit-time-box2{
+	height: 730px;
+	margin:  0 13px;
+   /*border: 1px solid #E2E2E2;*/
+}
+.limit-time1 .limit-time-box2 .small-box{
+	width: 214px;
+	height: 328px;
+	border: 1px solid #E2E2E2;
+	margin: 20px 10px;
+}
+.limit-time1 .limit-time-box2 .small-box img{
+	width: 212px;
+	height: 213px;
+}
+.limit-time1 .limit-time-box2 .small-box1{
+	margin: 10px;
+	width: 150px;
+	height: 36px;
+	background: #FF2D52;
+	text-align: center;
+	line-height: 36px;
+	color: white;
+	border-radius: 5px;
+}
+
+.color{
+	background: #999999;
+	margin: 10px;
+	width: 150px;
+	height: 36px;
+	text-align: center;
+	line-height: 36px;
+	color: white;
+	border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+/*调整输入警告的样式*/
+  label.error{
+	color: red;
+	width: 100%;
+	height: 26px;
+	position: absolute;
+	line-height: 22px;
+	padding-left: 10px;
+	background: url(../img/warning.png) no-repeat;
+	font-size: 12px;
+	top: 4px;
+	left: 24px;
+}
+.layer{
+	position: relative;
+}
+.change1 label.error{
+	color: red;
+	width: 100%;
+	height: 26px;
+	position: absolute;
+	line-height: 22px;
+	padding-left: 10px;
+	background: url(../img/warning.png) no-repeat;
+	font-size: 12px;
+	top: 54px;
+	left: 24px;
+}
+.change2 label.error{
+	color: red;
+	width: 100%;
+	height: 26px;
+	position: absolute;
+	line-height: 22px;
+	padding-left: 10px;
+	background: url(../img/warning.png) no-repeat;
+	font-size: 12px;
+	top: -4px;
+	left: 24px;
+}
+.bgc .bgc-box .change1 .input-btn.disabled{
+	background: #999;
+	cursor: not-allowed;
+}

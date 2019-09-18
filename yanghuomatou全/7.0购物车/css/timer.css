@@ -1,0 +1,150 @@
+.dashed .dash img{
+	width: 100%;
+	position: relative;
+}
+.dashed .time-small{
+	width:30px;
+	height: 30px;
+	margin-top: -4%;
+	margin-left: 35%;
+	position: absolute;
+}
+.dashed .time-wold{
+	font-size: 28px;
+	margin-top: -65px;
+	margin-left: 38%;
+	position: absolute;
+}
+.dashed .time-wold1{
+	margin-top: -47px;
+	margin-left: 48%;
+	position: absolute;
+}
+.dashed .time-wold2{
+	margin-top: -63px;
+	margin-left: 52%;
+	position: absolute;
+}
+.banner{
+	height: 445px;
+}
+.banner .banner-list img{
+	margin-top: -7px;
+	z-index: -1;
+	position: absolute;
+	width: 100%;
+	overflow: hidden;
+}
+.skill{
+	margin-top: -120px;
+	height: 1435px;
+}
+.skill .skill-one{
+	height: 58px;
+	width: 100%;
+	background: #343434;
+}
+.skill .skill-one li{
+	text-align: center;
+	color: #6f7070;
+	float: left;
+	height: 58px;
+	width: 240px;
+	border: 1px solid #ccc;
+	border-top: 2px solid #ccc;
+}
+.skill .skill-one li:hover{
+	background: #000;
+	border-top-color: #FF2D52;
+}
+.skill .skill-li{
+	padding-top: 8px;
+}
+.skill .skill-li1{
+	line-height: 58px;
+}
+.skill .skill-float li{
+	padding: 10px;
+	font-size: 12px;
+	width: 226px;
+	height: 278px;
+	margin-top: 10px;
+	margin-bottom: 35px;
+	float: left;
+	border: 1px solid #ccc;	
+}
+.skill .skill-float .skill-small-two{
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+.skill .skill-float .skill-small-one{
+	/*margin-bottom: 20px;*/
+	margin-top: 15px;
+}
+.skill .skill-float li:hover{
+	border-color: #FF2D52;
+}
+.skill .skill-float .li{
+	margin-left: 17px;
+	
+}
+.skill .skill-float img{	
+	position: relative;
+	padding: 10px;
+	width: 212px;
+	height: 212px;
+}
+.skill .skill-float li .over{
+	position: absolute;
+	margin-top: -10%;
+	margin-left: 65px;
+	width: 80px;
+	height: 80px;
+}
+.skill .skill-float .skill-div{
+	margin-left: -11px;
+	margin-top: 19px;
+	width: 226px;
+	height: 40px;
+	border: 1px solid #FF2D52;
+}
+.skill .skill-float .skill-div .skill-small{
+	width: 154px;
+	height: 39px;
+	text-align: center;
+	line-height: 39px;
+	background: #FF2D52;
+}
+.skill .skill-float .last1{
+	margin-left: -11px;
+	margin-top: 19px;
+	width: 226px;
+	height: 40px;
+	border: 1px solid #999;
+}
+.last{
+	width: 154px;
+	height: 39px;
+	text-align: center;
+	line-height: 39px;
+	background: #999;
+}
+ .btn{
+	width: 1200px;
+	margin-top: -35px;
+	text-align: center;
+	height: 50px;
+}
+.btn button{
+	width: 132px;
+	height: 30px;
+	border-radius: 5px;
+	border: 0;
+}
+.btn .btn-up{
+	background: #CCCCCC;
+
+}
+.btn .btn-down{
+	background: #666666;
+}

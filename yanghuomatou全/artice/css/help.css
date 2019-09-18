@@ -1,0 +1,179 @@
+/*存放帮助中心content样式*/
+.local{
+	height: 52px;
+}
+.local .local-box{
+	width: 170px;
+	height: 52px;
+	line-height: 52px;
+}
+.local .local-img{
+	padding-top: 15px;
+}
+.content-left{
+	margin-top:4px;
+	width: 960px;
+	height: 904px;
+	border: 1px solid #CCCCCC;
+}
+.title{
+	width: 920px;
+	height: 55px;
+	line-height: 55px;
+	padding: 5px;	
+	margin-left: 20px;
+	border-bottom: 1px dashed #CCC;
+}
+
+
+/*帮助中心*/
+.help-lists{
+	width: 220px;
+	/*height: 376px;*/
+	border: 1px solid #e2e2e2;
+	border-bottom: none;
+	display: inline-block;
+}
+.shopping-guide{
+	display: inline-block;
+	color: #333333;
+	font-size: 18px;
+	width: 100%;
+	height: 51px;
+	line-height: 50px;
+	padding: 0px 18px 0px 20px;
+	border-bottom: 1px solid #e2e2e2;
+}
+.center-bottom{
+	display: inline-block;
+	width: 7px;
+	height: 12px;
+	margin-left: 92px;
+	background: url(../img/centerright.jpg) no-repeat;
+}
+.center-bottom.on{
+	display: inline-block;
+	width: 12px;
+	height: 7px;
+	margin-left: 90px;
+	background: url(../img/centerbottom.jpg) no-repeat;
+}
+.shopping-guide-lists{
+	display: none;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.process-list{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	padding: 0px 20px;
+	color: #333333;
+	font-size: 14px;
+}
+
+.help-right{
+	vertical-align: top;
+	display: inline-block;
+	width: 960px;
+	margin-left: 16px;
+	border: 1px solid #e2e2e2;
+}
+.shopping-guide-content{
+	width: 100%;
+	height: 100%;
+	padding: 0px 16px;
+}
+.shopping-guide-title{
+	width: 100%;
+	height: 51px;
+	line-height: 50px;
+	border-bottom: 1px dotted #e2e2e2;
+	color: #000000;
+	font-size: 24px;
+}
+.user-protocol{
+	margin-top: 18px;
+}
+.user-protocol-title{
+	width: 100%;
+	line-height: 34px;
+	font-size: 14px;
+	color: #000000;
+}
+.user-protocol-content{
+	width: 100%;
+	line-height: 22px;
+	color: #333333;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.order-message{
+	width: 100%;
+	height: 59px;
+	border-bottom: 1px solid #e2e2e2;
+}
+.order-message-title{
+	font-size: 18px;
+	color: #333333;
+	width: 110px;
+	height: 100%;
+	line-height: 56px;
+	border-bottom: 2px solid #FF2D52;
+}
+.shipping-address{
+	width: 100%;
+	height: 58px;
+	line-height: 58px;
+	margin-top: 8px;
+	color: #343434;
+}
+.optional-address{
+	width: 100%;
+	height: 168px;
+}
+.address-bg{
+	width: 264px;
+	height: 160px;
+	background: url(../img/jiesuanbghui.png) no-repeat;
+	/*position: relative;*/
+	float: left;
+	margin-right: 20px;
+	display: inline-block;
+	padding: 12px 20px 10px 15px;
+}
+.address-name{
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 16px;
+}
+.address-bg p{
+	display: inline-block;
+	color: #555555;
+	font-size: 14px;
+	width: 100%;
+	
+	line-height: 22px;
+}
+.add{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background: #CCCCCC;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	line-height: 28px;
+	margin-top: 40px;
+	margin-left: 95px;
+}
+.address-bg .new-add{
+	display: inline-block;
+	color: #555555;
+	font-size: 14px;
+	width: 100%;
+	margin-left: 70px;
+	margin-top: 8px;
+	line-height: 22px;
+}

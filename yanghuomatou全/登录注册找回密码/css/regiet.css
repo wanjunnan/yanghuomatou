@@ -1,0 +1,112 @@
+/*注册页面css部分*/
+.logo{
+	height:130px;
+
+}
+.logo .login-img{
+	margin-top:30px;
+}
+.bgc{
+	height: 475px;
+	background: url(../img/bgc.png) no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+.bgc .bgc-box{
+	position: absolute;
+	background: white;
+	width: 346px;
+	height: 420px;
+	right: 248px;
+	top: 30px;
+}
+.bgc .bgc-box .warning{
+	position: absolute;
+	margin-top: 3px;
+}
+.bgc .bgc-box .warning-word{
+	position: absolute;
+	padding: 5px 10px;
+}
+.bgc .bgc-box .bgc-box1{
+	height: 30px;
+	line-height: 30px;
+	padding: 20px;
+}
+.bgc .bgc-box .input-box1{
+	width: 306px;
+	height: 40px;
+	position: relative;
+	margin: -10px 20px;
+}
+.bgc .bgc-box .input-img1{
+	padding-top: 39px;
+	padding-left: 30px;
+	position: absolute;
+	z-index: 5;
+}
+.bgc .bgc-box .input-box2{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 190px;
+	height: 40px;
+	position: relative;
+	/*margin: -10px 20px;*/
+}
+.bgc .bgc-box .input-img2{
+	margin-top: 10px;
+	padding-top: 22px;
+	padding-left: 30px;
+	position: absolute;
+	z-index: 5;
+}
+.bgc .bgc-box .input-btn{
+	margin-right: 20px;
+	margin-top: 20px;
+	width: 106px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	background: #FF2D52;
+	border:0;
+}
+.bgc .bgc-box .input-box3{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 306px;
+	height: 40px;
+	position: relative;
+	/*margin: -10px 20px;*/
+}
+.bgc .bgc-box .input-img3{
+	margin-top: 10px;
+	padding-top: 82px;
+	padding-left: 30px;
+	position: absolute;
+	z-index: 5;
+}
+.bgc .bgc-box .input-box4{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 306px;
+	height: 40px;
+	position: relative;
+	/*margin: -10px 20px;*/
+}
+.bgc .bgc-box .input-img4{
+	margin-top: 10px;
+	padding-top: 22px;
+	padding-left: 30px;
+	position: absolute;
+	z-index: 5;
+}
+.bgc .bgc-box .input-last{
+	margin-left: 20px;	
+	margin-top:25px;
+    width: 306px;
+    height: 40px;
+    border: 0;
+    background: #FF2D52;
+    line-height: 40px;
+    text-align: center;
+}

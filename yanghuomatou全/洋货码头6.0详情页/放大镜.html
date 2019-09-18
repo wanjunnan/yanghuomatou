@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<style>
+		.detail-img{
+			width: 500px;
+			height: 500px;
+		}
+		.jqzoom .small-img{
+			max-width: 100%;
+			max-height: 100%;
+		}
+		.jqzoom{
+			position: relative;
+		}
+		.jqzoom .zoom-pop{
+			width: 100px;
+			height: 100px;
+			background: #fff;
+			position: absolute;
+			top: 0;
+			left: 0;
+			opacity: 0.6;
+		}
+		.zoom-big{
+			position: absolute;
+			top: 0;
+			right: -440px;
+			width: 200px;
+			height: 200px;
+			overflow: hidden;
+			border: 1px solid #00FFFF;
+			z-index: 2;
+		}
+		.zoom-big img{
+			position: absolute;
+			z-index: 1;
+		}
+	</style>
+	<body>		
+		<div class=" jqzoom detail-img">
+			<img  class="small-img" src="img/2 (5).jpeg"/>
+			
+			<!--<div class="zoom-pop"></div>
+			<div class="zoom-big">
+				<img src="img/2 (5).jpeg"  />
+			</div>-->
+		</div>
+	</body>
+</html>
+<script type="text/javascript" src="js/jquery-2.1.0.js" ></script>
+<!--<script type="text/javascript" src="js/完整版jqzoom.js" ></script>-->
+<script type="text/javascript" src="js/修复版jqzoom.js" ></script>
+<script type="text/javascript">
+	$(".jqzoom").jqueryzoom({
+		offwidth:300,
+		offhight:300
+	})
+</script>

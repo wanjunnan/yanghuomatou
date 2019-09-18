@@ -1,0 +1,115 @@
+/*主要存放文章列表部分*/
+.local{
+	height: 52px;
+}
+.local .local-box{
+	width: 170px;
+	height: 52px;
+	line-height: 52px;
+}
+.local .local-img{
+	padding-top: 15px;
+}
+.content-box{
+	height: 1312px;
+}
+.content-box .content-left{
+	width: 960px;
+	border: 1px solid #CCCCCC;
+	height: 1294px;
+}
+.content-box .content-left .content-left-one{
+	height: 260px;
+	width: 960px;
+	/*margin: 20px;*/
+	border-bottom: 1px solid #CCCCCC;
+}
+.content-box .content-left .content-left-one .content-left-one-top{
+	height: 54px;
+	width: 902px;
+	padding: 14px;
+	border-bottom: 1px dashed #CCCCCC;
+}
+.content-box .content-left .content-left-one .content-left-one-button {
+	height: 194px;
+	margin-top: 20px;
+}
+.content-box .content-left .content-left-one.reset {
+	border: 0;
+}
+ .content-box .content-left .content-left-one .content-left-one-button img{
+ 	width: 198px;
+ 	height: 150px;
+ }
+ .content-box .content-left .content-left-one .content-left-one-button .span1{
+ 	width: 668px;
+ 	margin: 3px 30px;
+ }
+ .content-box .content-left .content-left-one .content-left-one-button a{
+ 	margin-left: 62px;
+ }
+ .content-box .content-left .content-left-one .content-left-one-button a:hover{
+ 	color: #FF2D52;
+ 	cursor: pointer;
+ }
+.content-box .content-right{
+	width: 220px;
+	border: 1px solid #CCCCCC;
+	height: 200px;
+}
+.content-box .content-right .right-top{
+	line-height: 40px;
+	width: 218px;
+	border-bottom: 1px solid #CCCCCC;
+	height: 40px;
+	background: #fff9f5;
+}
+.content-box .content-right .right-botton{
+	text-align: center;
+	height: 160px;
+	widows: 218px;
+	/*padding: 10px;*/
+}
+.content-box .content-right .right-botton {
+	padding:10px;
+}
+.content-box .content-right .right-botton li:hover{
+	color: #FF2D52;
+	cursor: pointer;
+}
+/*翻页*/
+.page{
+	height: 45px;
+	padding: 10px;
+}
+.page .page-move{
+	margin-left: 47%;
+}
+.page .page-move .page-big{
+	width: 69px;
+	height: 33px;
+	background: #F2F2F2;
+	border-radius: 5px;
+	border: 1px solid #E2E2E2;
+}
+.page .page-move .page-big1{
+	width: 69px;
+	height: 33px;
+	background:white;
+	border-radius: 5px;
+	border: 1px solid #E2E2E2;
+}
+.page .page-move .page-big1:hover{
+	background: #FF2D52;
+}
+.page .page-move button{
+	margin-left: 10px;
+	width: 32px;
+	height: 32px;
+	background: white;
+	border-radius: 5px;
+	border: 1px solid #E2E2E2;
+}
+.page .page-move .page-one:hover{
+	background: #FF2D52;
+}
